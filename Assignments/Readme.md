@@ -20,6 +20,7 @@ version of a value?
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%201.ipynb)
 
+---
 ## Assignment - 2
 ```commandline
 1. What are the two values of the Boolean data type? How do you write them?
@@ -58,6 +59,7 @@ importing spam?
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%202.ipynb)
 
+---
 ## Assignment - 3
 ```commandline
 1. Why are functions advantageous to have in your programs?
@@ -77,6 +79,7 @@ importing spam?
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%203.ipynb)
 
+---
 ## Assignment - 4
 ```commandline
 1. What exactly is []?
@@ -103,6 +106,7 @@ contain?
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%204.ipynb)
 
+---
 ## Assignment - 5
 ```commandline
 1. What does an empty dictionary&#39;s code look like?
@@ -120,6 +124,7 @@ spam[&#39;color&#39;] = &#39;black&#39;
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%205.ipynb)
 
+---
 ## Assignment - 6
 ```commandline
 1. What are escape characters, and how do you use them?
@@ -145,6 +150,7 @@ word Howl&#39;s not escaped a problem?
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%206.ipynb)
 
+---
 ## Assignment - 7
 ```commandline
 1. What is the name of the feature responsible for generating Regex objects?
@@ -184,6 +190,7 @@ following:
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%207.ipynb)
 
+---
 ## Assignment - 8
 ```commandline
 1. Is the Python Standard Library included with PyInputPlus?
@@ -196,6 +203,7 @@ following:
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%208.ipynb)
 
+---
 ## Assignment - 9
 ```commandline
 1. To what does a relative path refer?
@@ -210,6 +218,7 @@ following:
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%209.ipynb)
 
+---
 ## Assignment - 10
 ```commandline
 1. How do you distinguish between shutil.copy() and shutil.copytree()?
@@ -221,3 +230,5 @@ equivalent to File objects’ open() method?
 or .jpg). Copy these files from whatever location they are in to a new folder.
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%2010.ipynb)
+
+---
