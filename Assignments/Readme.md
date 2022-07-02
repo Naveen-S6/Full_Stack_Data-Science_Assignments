@@ -230,5 +230,3 @@ equivalent to File objects’ open() method?
 or .jpg). Copy these files from whatever location they are in to a new folder.
 ```
 [Answers](https://github.com/Naveen-S6/Full_Stack_Data-Science_Assignments/blob/main/Assignments/Assignment%20-%2010.ipynb)
-
----
