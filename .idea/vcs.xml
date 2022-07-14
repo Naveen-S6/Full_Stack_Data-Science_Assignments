@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../OCR_Healthcare_Project/Project_git/Data_Extraction_Healthcare_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AtliQ_Sales_Insigths_PowerBi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Lex_course_Excerises" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Python_Apps" vcs="Git" />
   </component>

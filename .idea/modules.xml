@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AtliQ_Sales_Insigths_PowerBi/.idea/AtliQ_Sales_Insigths_PowerBi.iml" filepath="$PROJECT_DIR$/../AtliQ_Sales_Insigths_PowerBi/.idea/AtliQ_Sales_Insigths_PowerBi.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DSA_codebasics_course_exercises/.idea/DSA_codebasics_course_exercises.iml" filepath="$PROJECT_DIR$/../DSA_codebasics_course_exercises/.idea/DSA_codebasics_course_exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../OCR_Healthcare_Project/Project_git/Data_Extraction_Healthcare_Project/.idea/Data_Extraction_Healthcare_Project.iml" filepath="$PROJECT_DIR$/../../OCR_Healthcare_Project/Project_git/Data_Extraction_Healthcare_Project/.idea/Data_Extraction_Healthcare_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Full_Stack_Data-Science_Assignments.iml" filepath="$PROJECT_DIR$/.idea/Full_Stack_Data-Science_Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Lex_course_Excerises/.idea/Lex_course_Excerises.iml" filepath="$PROJECT_DIR$/../Lex_course_Excerises/.idea/Lex_course_Excerises.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects/Practicse/.idea/Practicse.iml" filepath="$USER_HOME$/PycharmProjects/Practicse/.idea/Practicse.iml" />

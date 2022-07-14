@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (venv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DSA_codebasics_course_exercises" />
     <orderEntry type="module" module-name="Lex_course_Excerises" />
     <orderEntry type="module" module-name="Practicse" />
     <orderEntry type="module" module-name="Python_Apps" />
+    <orderEntry type="module" module-name="Data_Extraction_Healthcare_Project" />
+    <orderEntry type="module" module-name="AtliQ_Sales_Insigths_PowerBi" />
   </component>
 </module>
